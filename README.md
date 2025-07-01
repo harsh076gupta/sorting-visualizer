@@ -30,9 +30,8 @@ A Python-based GUI project that visually demonstrates sorting algorithms like Bu
 ![Bubble Sort - After Sorting](bubble_AfterSorting.png)
 
 ### Insertion Sort Visualization  
-![Insertion Sort - Before Sorting](insertion_BeforeSorting.png)  
-![Insertion Sort - After Sorting](insertion_AfterSorting.png)
-
+![Insertion Sort - Before Sorting](Insertion_BeforeSorting.png)  
+![Insertion Sort - After Sorting](Insertion_AfterSorting.png)
 ---
 
 ## 🙌 Contributions
